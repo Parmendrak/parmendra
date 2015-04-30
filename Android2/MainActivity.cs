@@ -26,7 +26,7 @@ namespace Android2
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 
 			Console.WriteLine ("Parmendra");
-
+			Console.WriteLine ("Parmendra choudhary");
 
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
