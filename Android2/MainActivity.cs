@@ -26,7 +26,7 @@ namespace Android2
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 
 			Console.WriteLine ("ParmendraChoudhary");
-                        Console.WriteLine ("PKDK");
+                        Console.WriteLine ("PKDKq");
                         
                         
 			button.Click += delegate {
